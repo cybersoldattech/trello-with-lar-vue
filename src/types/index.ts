@@ -1,7 +1,7 @@
 export interface Column {
     id: Number,
     title : String,
-    task: Array<Task>
+    tasks: Array<Task>
 }
 
 
