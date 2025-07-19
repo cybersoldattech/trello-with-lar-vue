@@ -9,9 +9,9 @@
 
 
 <template>
-        <div  class="bg-white rounded shadow min-w-[250px] p-2 mb-2" >
-             {{ task.title }}
-        </div>
+    <div  class="bg-red-100 rounded shadow p-2 mb-2" >
+        {{ task.title }}
+    </div>
 </template>
 
 <style scoped>
