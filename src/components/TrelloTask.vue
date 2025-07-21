@@ -4,7 +4,6 @@
     defineProps<{
         task: Task
     }>()
-
 </script>
 
 
