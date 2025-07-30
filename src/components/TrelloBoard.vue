@@ -41,9 +41,9 @@
     
   <div class="mx-auto max-w-full py-12 sm:px-6 lg:px-8">
         
-    <p class="font-bold text-6xl text-center py-4">
+    <p class="font-bold text-6xl text-center py-16">
             MANAGE TASK
-        </p>
+    </p>
 
         <Draggable
             v-model="columns"
