@@ -1,8 +1,6 @@
 <script setup lang="ts">
     import type { Column, Task } from '@/types';
-
     import { ref } from 'vue';
-
     import Draggable from 'vuedraggable';
     import TrelloTask from './TrelloTask.vue';
 
